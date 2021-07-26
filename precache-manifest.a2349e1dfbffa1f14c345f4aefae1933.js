@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a7f946b0cbb1d657d651c3b08d3eff4d",
+    "revision": "a74126f56716a84db496bc9d3639a057",
     "url": "/personal/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal/static/css/2.3ea67ca0.chunk.css"
   },
   {
-    "revision": "ba5f72bb852ccae9b93f",
-    "url": "/personal/static/css/main.075c282c.chunk.css"
+    "revision": "e56d808ece36546a2232",
+    "url": "/personal/static/css/main.b23a8c29.chunk.css"
   },
   {
     "revision": "91e97c8ec13f26866d8e",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/personal/static/js/2.e9a0db55.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ba5f72bb852ccae9b93f",
-    "url": "/personal/static/js/main.6ea62e64.chunk.js"
+    "revision": "e56d808ece36546a2232",
+    "url": "/personal/static/js/main.fbb2e7a2.chunk.js"
   },
   {
     "revision": "f13ee5e87857370d5f6a",
@@ -30,6 +30,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "f5144680075f48fb4613b862cbf57a32",
     "url": "/personal/static/media/Altair.f5144680.PNG"
+  },
+  {
+    "revision": "b78550d1e21c367f38af3cbf8a89625b",
+    "url": "/personal/static/media/Hind-Light.b78550d1.ttf"
+  },
+  {
+    "revision": "409c7f79a42e56c785f50ed37535f0be",
+    "url": "/personal/static/media/Montserrat-Light.409c7f79.ttf"
   },
   {
     "revision": "b957a93dd4b4454deb47526cd5b08bcf",
