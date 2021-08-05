@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/personal/static/css/main.ea8e0487.chunk.css",
-    "main.js": "/personal/static/js/main.5c95432d.chunk.js",
-    "main.js.map": "/personal/static/js/main.5c95432d.chunk.js.map",
+    "main.js": "/personal/static/js/main.ac0e5f28.chunk.js",
+    "main.js.map": "/personal/static/js/main.ac0e5f28.chunk.js.map",
     "runtime-main.js": "/personal/static/js/runtime-main.91b031ba.js",
     "runtime-main.js.map": "/personal/static/js/runtime-main.91b031ba.js.map",
     "static/css/2.3ea67ca0.chunk.css": "/personal/static/css/2.3ea67ca0.chunk.css",
-    "static/js/2.755b8fe4.chunk.js": "/personal/static/js/2.755b8fe4.chunk.js",
-    "static/js/2.755b8fe4.chunk.js.map": "/personal/static/js/2.755b8fe4.chunk.js.map",
+    "static/js/2.66dc2e44.chunk.js": "/personal/static/js/2.66dc2e44.chunk.js",
+    "static/js/2.66dc2e44.chunk.js.map": "/personal/static/js/2.66dc2e44.chunk.js.map",
     "index.html": "/personal/index.html",
-    "precache-manifest.fedf075078a56133c7771b305a944445.js": "/personal/precache-manifest.fedf075078a56133c7771b305a944445.js",
+    "precache-manifest.13d3d876bf7bf02676d1aa5551299cd9.js": "/personal/precache-manifest.13d3d876bf7bf02676d1aa5551299cd9.js",
     "service-worker.js": "/personal/service-worker.js",
     "static/css/2.3ea67ca0.chunk.css.map": "/personal/static/css/2.3ea67ca0.chunk.css.map",
     "static/css/main.ea8e0487.chunk.css.map": "/personal/static/css/main.ea8e0487.chunk.css.map",
-    "static/js/2.755b8fe4.chunk.js.LICENSE.txt": "/personal/static/js/2.755b8fe4.chunk.js.LICENSE.txt",
+    "static/js/2.66dc2e44.chunk.js.LICENSE.txt": "/personal/static/js/2.66dc2e44.chunk.js.LICENSE.txt",
     "static/media/Altair.PNG": "/personal/static/media/Altair.f5144680.PNG",
     "static/media/project.css": "/personal/static/media/Montserrat-Light.409c7f79.ttf",
     "static/media/circle-cropped.png": "/personal/static/media/circle-cropped.b957a93d.png",
@@ -24,14 +24,15 @@
     "static/media/linkedin.png": "/personal/static/media/linkedin.e4a9fd80.png",
     "static/media/phone.png": "/personal/static/media/phone.05865c92.png",
     "static/media/realkobe.png": "/personal/static/media/realkobe.cb2d0352.png",
+    "static/media/store-type.PNG": "/personal/static/media/store-type.a3aba393.PNG",
     "static/media/swe.png": "/personal/static/media/swe.8846c41f.png",
     "static/media/zhu11.PNG": "/personal/static/media/zhu11.ec7db6e6.PNG"
   },
   "entrypoints": [
     "static/js/runtime-main.91b031ba.js",
     "static/css/2.3ea67ca0.chunk.css",
-    "static/js/2.755b8fe4.chunk.js",
+    "static/js/2.66dc2e44.chunk.js",
     "static/css/main.ea8e0487.chunk.css",
-    "static/js/main.5c95432d.chunk.js"
+    "static/js/main.ac0e5f28.chunk.js"
   ]
 }
